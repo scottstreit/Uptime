@@ -16,8 +16,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "YETI Uptime Status Page"
-  introMessage: Monitoring YETI Sites and 3rd party integration partners
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  # introMessage: Monitoring YETI Sites and 3rd party integration partners
+  #   - title: Status
+  #     href: /
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
