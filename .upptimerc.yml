@@ -3,10 +3,12 @@ owner: scottstreit # Your GitHub organization or username, where this repository
 repo: Uptime # The name of this repository
 
 sites:
-  - name: YETI
-    url: https://www.yeti.com
-  - name: YETI - Canada
-    url: https://www.yeti.ca
+  - name: Google
+    url: https://www.google.com
+  # - name: YETI
+  #   url: https://www.yeti.com
+  # - name: YETI - Canada
+  #   url: https://www.yeti.ca
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
