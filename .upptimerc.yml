@@ -9,6 +9,8 @@ sites:
       - "x-px-access-token: $PX_TOKEN"
   - name: YETI - Canada
     url: https://www.yeti.ca
+    headers:
+      - "x-px-access-token: $PX_TOKEN"
   - name: Year In Preview
     url: https://calendar.yeti.com
 
