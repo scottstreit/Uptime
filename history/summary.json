@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 32
     }
   },
   {
@@ -30,15 +30,33 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 128,
-    "timeDay": 120,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 134,
+    "timeDay": 136,
+    "timeWeek": 134,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-10-14": 24,
+      "2024-10-14": 56,
       "2024-10-13": 1440,
       "2024-10-12": 1299
     }
+  },
+  {
+    "name": "Year In Preview",
+    "url": "https://calendar.yeti.com",
+    "icon": "https://icons.duckduckgo.com/ip3/calendar.yeti.com.ico",
+    "slug": "year-in-preview",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 289,
+    "timeDay": 289,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
+    "dailyMinutesDown": {}
   }
 ]
