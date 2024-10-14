@@ -7,7 +7,6 @@ sites:
     url: https://www.yeti.com
     headers:
       - "x-px-access-token: $PX_TOKEN"
-      - "Content-Type: application/json"
   - name: YETI - Canada
     url: https://www.yeti.ca
   - name: Year In Preview
