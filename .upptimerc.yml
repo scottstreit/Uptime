@@ -31,10 +31,10 @@ status-website:
       
 
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
+  graphs: "*/15 * * * *"
+  responseTime: "0 */4 * * *"
+  staticSite: "0 */12 * * *"
+  summary: "0 */8 * * *"
   updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  updates: "* * 1,15 * *"
+  uptime: "3-59/5 * * * *"
