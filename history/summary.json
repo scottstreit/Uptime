@@ -4,19 +4,19 @@
     "url": "https://www.yeti.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yeti.com.ico",
     "slug": "yeti-us",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 835,
-    "timeDay": 667,
-    "timeWeek": 754,
-    "timeMonth": 724,
+    "timeDay": 666,
+    "timeWeek": 751,
+    "timeMonth": 723,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-03-20": 0
+      "2025-03-20": 6
     }
   },
   {
