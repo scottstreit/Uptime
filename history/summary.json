@@ -6,18 +6,16 @@
     "slug": "yeti-us",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 835,
-    "timeDay": 666,
-    "timeWeek": 751,
-    "timeMonth": 723,
+    "timeDay": 645,
+    "timeWeek": 744,
+    "timeMonth": 721,
     "timeYear": 835,
-    "dailyMinutesDown": {
-      "2025-03-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YETI - Canada",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 763,
-    "timeWeek": 737,
-    "timeMonth": 724,
-    "timeYear": 795,
+    "time": 794,
+    "timeDay": 741,
+    "timeWeek": 736,
+    "timeMonth": 721,
+    "timeYear": 794,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 92,
+    "timeDay": 83,
     "timeWeek": 78,
     "timeMonth": 90,
     "timeYear": 86,
