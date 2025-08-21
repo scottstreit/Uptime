@@ -4,36 +4,40 @@
     "url": "https://www.yeti.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yeti.com.ico",
     "slug": "yeti-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 782,
-    "timeDay": 767,
-    "timeWeek": 818,
-    "timeMonth": 787,
+    "timeDay": 721,
+    "timeWeek": 806,
+    "timeMonth": 784,
     "timeYear": 782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   },
   {
     "name": "YETI - Canada",
     "url": "https://www.yeti.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.yeti.ca.ico",
     "slug": "yeti-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 719,
-    "timeWeek": 677,
-    "timeMonth": 729,
+    "timeDay": 642,
+    "timeWeek": 663,
+    "timeMonth": 726,
     "timeYear": 751,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   },
   {
     "name": "Year In Preview",
@@ -47,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 94,
-    "timeWeek": 106,
+    "timeDay": 100,
+    "timeWeek": 108,
     "timeMonth": 96,
     "timeYear": 89,
     "dailyMinutesDown": {}
